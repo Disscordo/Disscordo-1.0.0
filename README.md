@@ -4,6 +4,8 @@ You can invite the current, up to date, version of Disscordo by [Inviting the bo
 
 To edit the bot you need Node and Atom (Another other editor will also work)
 
+STARTER: Download the code and npm install in the file.
+
 1) Go to the Discord Developer Portal (DDP) [(Click Here)](http://discord.com/developers/applications)
 2) If you have already created the bot select the bot and head to step number 4. If not, click New Application and enter a name.
 3) Select bot on the side menu and click Create Bot then Yes, Do it! You should then see the bot page, you can change the profile icon now or do it later. You can also change the bots name later.
